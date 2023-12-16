@@ -1,7 +1,13 @@
 package House
 
 import(
-	    "GolandProjects/awesome/House/Furniture"
+	"GolandProjects/awesome/House/Furniture"
+	"GolandProjects/awesome/House/Appliances"
+	"GolandProjects/awesome/House/Accessories"
+	"GolandProjects/awesome/House/Decor"
+	"GolandProjects/awesome/House/Dish"
+)
+
 )
 type Room struct{
 	Name string
